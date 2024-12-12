@@ -2,8 +2,9 @@
 
 Welcome to the **Simple Weather Application**, an innovative project designed to provide real-time weather updates for any location around the globe. Whether you're planning a trip or just curious about the current weather, this application has got you covered!
 
-![Weather App Banner](https://via.placeholder.com/800x300.png?text=🌈+Simple+Weather+Application&bg=3d85c6&fg=ffffff)  
-![Weather Details Example](https://via.placeholder.com/800x300.png?text=Detailed+Weather+Information&bg=87ceeb&fg=ffffff)
+![Weather App Banner](https://images.app.goo.gl/eBZisF3J4G37NTff9)  
+![Weather Details Example 1](https://images.app.goo.gl/M9z65ofkucNcSoSa6)  
+![Weather Details Example 2](https://images.app.goo.gl/WYR1oVTkoVNfSsVT6)
 
 ---
 
@@ -113,7 +114,6 @@ Feel free to connect and collaborate:
 - **GitHub**: [Ashokkpal](https://github.com/Ashokkpal)
 - **LinkedIn**: [Ashok pal](https://www.linkedin.com/in/ashokpal2094)
 - **instagram**: [am_i_ashokk](https://www.instagram.com/am_i_ashokk/)
-
 ---
 
 ## 📧 Contact
