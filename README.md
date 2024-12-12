@@ -2,7 +2,8 @@
 
 Welcome to the **Simple Weather Application**, an innovative project designed to provide real-time weather updates for any location around the globe. Whether you're planning a trip or just curious about the current weather, this application has got you covered!
 
-![Weather App Banner](https://via.placeholder.com/800x300.png?text=Simple+Weather+Application)  
+![Weather App Banner](https://via.placeholder.com/800x300.png?text=🌈+Simple+Weather+Application&bg=3d85c6&fg=ffffff)  
+![Weather Details Example](https://via.placeholder.com/800x300.png?text=Detailed+Weather+Information&bg=87ceeb&fg=ffffff)
 
 ---
 
@@ -110,8 +111,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 Feel free to connect and collaborate:
 
 - **GitHub**: [Ashokkpal](https://github.com/Ashokkpal)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [@YourHandle](https://twitter.com/YourHandle)
+- **LinkedIn**: [Ashok pal](https://www.linkedin.com/in/ashokpal2094)
+- **instagram**: [am_i_ashokk](https://www.instagram.com/am_i_ashokk/)
 
 ---
 
@@ -121,4 +122,4 @@ Have questions or suggestions? Reach out via [GitHub Issues](https://github.com/
 
 ---
 
-![Footer Image](https://via.placeholder.com/800x100.png?text=Stay+Updated+With+Weather!)
+![Footer Image](https://via.placeholder.com/800x100.png?text=🌤️+Stay+Updated+With+Weather!&bg=f4a460&fg=ffffff)
