@@ -103,7 +103,7 @@ We appreciate your interest in contributing! Here's how you can help:
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. See the [[LICENSE](LICENSE)](https://github.com/Ashokkpal/Simple-weather-application/blob/main/License) file for more information.
+This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/Ashokkpal/Simple-weather-application/blob/main/License)file for more information.
 
 ---
 
