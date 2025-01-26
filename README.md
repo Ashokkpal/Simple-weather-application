@@ -1,4 +1,4 @@
-# 🌦️ Simple Weather Application
+# 🌦️ Simple Weather Application 
 
 Welcome to the **Simple Weather Application**, an innovative project designed to provide real-time weather updates for any location around the globe. Whether you're planning a trip or just curious about the current weather, this application has got you covered!
 
