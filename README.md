@@ -113,8 +113,7 @@ Feel free to connect and collaborate:
 
 - **GitHub**: [Ashokkpal](https://github.com/Ashokkpal)
 - **LinkedIn**: [Ashok pal](https://www.linkedin.com/in/ashokpal2094)
-- **instagram**: [Sai Ashok Paul](https://www.instagram.com/its_ashookk
-/)
+- **instagram**: [Sai Ashok Paul](https://www.instagram.com/its_ashookk/)
 ---
 
 ## 📧 Contact
