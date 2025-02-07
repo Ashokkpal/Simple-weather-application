@@ -112,7 +112,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](https://gi
 Feel free to connect and collaborate:
 
 - **GitHub**: [Ashokkpal](https://github.com/Ashokkpal)
-- **LinkedIn**: [Ashok pal](https://www.linkedin.com/in/ashokpal2094)
+- **LinkedIn**: [Ashok pal](https://www.linkedin.com/in/yoursashok/)
 - **instagram**: [Sai Ashok Paul](https://www.instagram.com/its_ashookk/)
 ---
 
